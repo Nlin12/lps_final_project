@@ -2,8 +2,8 @@
 	"name" : "FinalProject",
 	"version" : 1,
 	"creationdate" : 3796928252,
-	"modificationdate" : 3796928423,
-	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
+	"modificationdate" : 3796935941,
+	"viewrect" : [ 77.0, 135.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -17,6 +17,16 @@
 			}
 ,
 			"CapturyReceive.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"testpatch.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"silhouette.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
