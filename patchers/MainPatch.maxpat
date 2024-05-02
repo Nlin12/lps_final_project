@@ -45,7 +45,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 182.5, 213.0, 65.0, 20.0 ],
-					"text" : "Z [-30, 30]"
+					"text" : "Z [0, 100]"
 				}
 
 			}
