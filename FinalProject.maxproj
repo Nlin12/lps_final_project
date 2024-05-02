@@ -2,8 +2,8 @@
 	"name" : "FinalProject",
 	"version" : 1,
 	"creationdate" : 3796928252,
-	"modificationdate" : 3797533919,
-	"viewrect" : [ 160.0, 229.0, 300.0, 500.0 ],
+	"modificationdate" : 3797534201,
+	"viewrect" : [ 160.0, 228.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -37,6 +37,11 @@
 			}
 ,
 			"Platform.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"Display.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 650.0, 305.0, 640.0, 480.0 ],
+		"rect" : [ 724.0, 353.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,11 +40,22 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-1",
+					"id" : "obj-2",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 83.0, 136.0, 100.0, 22.0 ],
+					"patching_rect" : [ 253.0, 333.0, 100.0, 22.0 ],
+					"text" : "Display.maxpat"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-1",
+					"maxclass" : "newobj",
+					"numinlets" : 3,
+					"numoutlets" : 0,
+					"patching_rect" : [ 40.0, 333.0, 100.0, 22.0 ],
 					"text" : "Platform.maxpat"
 				}
 
@@ -56,7 +67,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 22,
 					"outlettype" : [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
-					"patching_rect" : [ 83.0, 34.0, 498.0, 22.0 ],
+					"patching_rect" : [ 44.0, 26.0, 498.0, 22.0 ],
 					"text" : "CapturyReceive.maxpat"
 				}
 
@@ -65,6 +76,13 @@
 		"lines" : [  ],
 		"dependency_cache" : [ 			{
 				"name" : "CapturyReceive.maxpat",
+				"bootpath" : "~/Repo/NYU/LivePerformanceStudio/Final/FinalProject/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "Display.maxpat",
 				"bootpath" : "~/Repo/NYU/LivePerformanceStudio/Final/FinalProject/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
