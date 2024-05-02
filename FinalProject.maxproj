@@ -2,18 +2,23 @@
 	"name" : "FinalProject",
 	"version" : 1,
 	"creationdate" : 3796928252,
-	"modificationdate" : 3796935941,
-	"viewrect" : [ 77.0, 135.0, 300.0, 500.0 ],
+	"modificationdate" : 3797533919,
+	"viewrect" : [ 160.0, 229.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 1,
 	"contents" : 	{
 		"patchers" : 		{
-			"CapturyOSC.maxpat" : 			{
+			"MainPatch.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"CapturyOSC.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"CapturyReceive.maxpat" : 			{
@@ -27,6 +32,11 @@
 			}
 ,
 			"silhouette.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"Platform.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
