@@ -2,7 +2,7 @@
 	"name" : "lps_final_project",
 	"version" : 1,
 	"creationdate" : 3796928252,
-	"modificationdate" : 3797536675,
+	"modificationdate" : 3797537675,
 	"viewrect" : [ 160.0, 228.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -37,6 +37,16 @@
 			}
 ,
 			"DisplayOutput.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"LightOutput.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"PlatformProcess.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

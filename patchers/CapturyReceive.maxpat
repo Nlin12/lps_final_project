@@ -244,9 +244,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightFoot 01",
 					"id" : "obj-400",
-					"index" : 22,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -256,9 +256,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightLeg 01",
 					"id" : "obj-399",
-					"index" : 21,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -268,9 +268,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightUpLeg 01",
 					"id" : "obj-398",
-					"index" : 20,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -280,9 +280,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftFoot 01",
 					"id" : "obj-397",
-					"index" : 19,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -292,9 +292,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftLeg 01",
 					"id" : "obj-396",
-					"index" : 18,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -304,9 +304,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftUpLeg 01",
 					"id" : "obj-395",
-					"index" : 17,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -316,9 +316,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightHand 01",
 					"id" : "obj-394",
-					"index" : 16,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -328,9 +328,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightForeArm 01",
 					"id" : "obj-393",
-					"index" : 15,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -340,9 +340,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightArm 01",
 					"id" : "obj-392",
-					"index" : 14,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -352,9 +352,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "RightShoulder 01",
 					"id" : "obj-391",
-					"index" : 13,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -364,9 +364,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftHand 01",
 					"id" : "obj-390",
-					"index" : 12,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -376,9 +376,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftForeArm 01",
 					"id" : "obj-389",
-					"index" : 11,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -388,9 +388,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftArm 01",
 					"id" : "obj-388",
-					"index" : 10,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -400,9 +400,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "LeftShoulder 01",
 					"id" : "obj-387",
-					"index" : 9,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -412,9 +412,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Head 01",
 					"id" : "obj-386",
-					"index" : 8,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -424,9 +424,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Neck 01",
 					"id" : "obj-385",
-					"index" : 7,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -436,9 +436,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Spine4 01",
 					"id" : "obj-384",
-					"index" : 6,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -448,9 +448,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Spine3 01",
 					"id" : "obj-383",
-					"index" : 5,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -460,9 +460,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Spine2 01",
 					"id" : "obj-382",
-					"index" : 4,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -472,9 +472,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Spine1 01",
 					"id" : "obj-381",
-					"index" : 3,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -484,9 +484,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Spine 01",
 					"id" : "obj-380",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -496,9 +496,9 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Root 01",
 					"id" : "obj-379",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -5136,7 +5136,13 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [ 			{
+				"name" : "o.route.mxo",
+				"type" : "iLaX"
+			}
+ ],
+		"autosave" : 0
 	}
 
 }
