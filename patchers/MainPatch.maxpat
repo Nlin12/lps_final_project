@@ -116,8 +116,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 253.0, 333.0, 100.0, 22.0 ],
-					"text" : "Display.maxpat"
+					"patching_rect" : [ 345.0, 333.0, 127.0, 22.0 ],
+					"text" : "DisplayOutput.maxpat"
 				}
 
 			}
@@ -127,8 +127,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 40.0, 333.0, 100.0, 22.0 ],
-					"text" : "Platform.maxpat"
+					"patching_rect" : [ 40.0, 333.0, 132.0, 22.0 ],
+					"text" : "PlatformOutput.maxpat"
 				}
 
 			}
@@ -175,14 +175,14 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Display.maxpat",
+				"name" : "DisplayOutput.maxpat",
 				"bootpath" : "~/Repo/NYU/LivePerformanceStudio/Final/lps_final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Platform.maxpat",
+				"name" : "PlatformOutput.maxpat",
 				"bootpath" : "~/Repo/NYU/LivePerformanceStudio/Final/lps_final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",

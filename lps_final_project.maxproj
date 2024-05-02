@@ -1,8 +1,8 @@
 {
-	"name" : "FinalProject",
+	"name" : "lps_final_project",
 	"version" : 1,
 	"creationdate" : 3796928252,
-	"modificationdate" : 3797534201,
+	"modificationdate" : 3797536675,
 	"viewrect" : [ 160.0, 228.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,17 +16,12 @@
 				"toplevel" : 1
 			}
 ,
-			"CapturyOSC.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"CapturyReceive.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"testpatch.maxpat" : 			{
+			"CapturyOSC.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -36,12 +31,12 @@
 				"local" : 1
 			}
 ,
-			"Platform.maxpat" : 			{
+			"PlatformOutput.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"Display.maxpat" : 			{
+			"DisplayOutput.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
