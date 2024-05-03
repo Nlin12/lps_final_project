@@ -370,8 +370,8 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 419.0, 443.0, 111.0, 22.0 ],
-					"text" : "scale -1. -1. 0. 100."
+					"patching_rect" : [ 419.0, 443.0, 107.0, 22.0 ],
+					"text" : "scale -1. 1. 0. 100."
 				}
 
 			}
