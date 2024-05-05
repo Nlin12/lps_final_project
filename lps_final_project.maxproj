@@ -2,8 +2,8 @@
 	"name" : "lps_final_project",
 	"version" : 1,
 	"creationdate" : 3796928252,
-	"modificationdate" : 3797537675,
-	"viewrect" : [ 160.0, 228.0, 300.0, 500.0 ],
+	"modificationdate" : 3797797427,
+	"viewrect" : [ 148.0, 274.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -47,6 +47,11 @@
 			}
 ,
 			"PlatformProcess.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"AudioOutput.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

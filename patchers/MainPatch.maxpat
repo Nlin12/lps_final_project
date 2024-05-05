@@ -40,6 +40,17 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 3,
+					"numoutlets" : 0,
+					"patching_rect" : [ 206.0, 426.0, 118.0, 22.0 ],
+					"text" : "AudioOutput.maxpat"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-33",
 					"linecount" : 2,
 					"maxclass" : "comment",
@@ -149,7 +160,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 3,
-					"outlettype" : [ "float", "float", "float" ],
+					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 39.0, 167.0, 139.0, 22.0 ],
 					"text" : "PlatformProcess.maxpat"
 				}
@@ -161,7 +172,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 277.0, 426.0, 113.0, 22.0 ],
+					"patching_rect" : [ 354.0, 426.0, 113.0, 22.0 ],
 					"text" : "LightOutput.maxpat"
 				}
 
@@ -275,7 +286,32 @@
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
+					"destination" : [ "obj-3", 2 ],
+					"order" : 0,
+					"source" : [ "obj-10", 2 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 1 ],
+					"order" : 0,
+					"source" : [ "obj-10", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"order" : 0,
+					"source" : [ "obj-10", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-42", 0 ],
+					"order" : 1,
 					"source" : [ "obj-10", 1 ]
 				}
 
@@ -283,6 +319,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-45", 0 ],
+					"order" : 1,
 					"source" : [ "obj-10", 2 ]
 				}
 
@@ -290,6 +327,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-9", 0 ],
+					"order" : 1,
 					"source" : [ "obj-10", 0 ]
 				}
 
@@ -365,7 +403,29 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-3::obj-18" : [ "vst~", "vst~", 0 ],
+			"obj-3::obj-26" : [ "live.gain~", "live.gain~", 0 ],
+			"parameterbanks" : 			{
+				"0" : 				{
+					"index" : 0,
+					"name" : "",
+					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
+				}
+
+			}
+,
+			"inherited_shortname" : 1
+		}
+,
 		"dependency_cache" : [ 			{
+				"name" : "AudioOutput.maxpat",
+				"bootpath" : "~/Repo/NYU/LivePerformanceStudio/Final/lps_final_project/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "CapturyReceive.maxpat",
 				"bootpath" : "~/Repo/NYU/LivePerformanceStudio/Final/lps_final_project/patchers",
 				"patcherrelativepath" : ".",
