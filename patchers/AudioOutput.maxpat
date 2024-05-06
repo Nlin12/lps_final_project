@@ -93,7 +93,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 293.25, 563.0, 61.0, 22.0 ],
-					"text" : "delay 490"
+					"text" : "delay 195"
 				}
 
 			}
@@ -201,7 +201,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 255.0, 343.0, 123.0, 22.0 ],
-					"text" : "scale 0. 0.006 10 127"
+					"text" : "scale 0. 0.002 10 127"
 				}
 
 			}
@@ -344,7 +344,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 245.25, 529.0, 63.0, 22.0 ],
-					"text" : "metro 500"
+					"text" : "metro 200"
 				}
 
 			}
