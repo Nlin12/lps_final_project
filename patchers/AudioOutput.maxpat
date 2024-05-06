@@ -285,7 +285,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 266.0, 537.0, 63.0, 22.0 ],
-					"text" : "metro 500"
+					"text" : "metro 200"
 				}
 
 			}
