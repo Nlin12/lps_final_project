@@ -44,9 +44,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 363.0, 222.0, 28.0, 22.0 ],
-					"text" : "abs"
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 363.0, 222.0, 41.0, 22.0 ],
+					"text" : "abs 0."
 				}
 
 			}
@@ -56,9 +56,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 309.0, 222.0, 28.0, 22.0 ],
-					"text" : "abs"
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 309.0, 222.0, 41.0, 22.0 ],
+					"text" : "abs 0."
 				}
 
 			}
@@ -68,9 +68,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 255.0, 222.0, 28.0, 22.0 ],
-					"text" : "abs"
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 255.0, 222.0, 41.0, 22.0 ],
+					"text" : "abs 0."
 				}
 
 			}
@@ -104,9 +104,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 309.0, 72.0, 28.0, 22.0 ],
-					"text" : "abs"
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 309.0, 72.0, 41.0, 22.0 ],
+					"text" : "abs 0."
 				}
 
 			}
@@ -116,9 +116,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 43.0, 70.0, 28.0, 22.0 ],
-					"text" : "abs"
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 43.0, 70.0, 41.0, 22.0 ],
+					"text" : "abs 0."
 				}
 
 			}
@@ -440,7 +440,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 255.0, 421.0, 164.0, 22.0 ],
+					"patching_rect" : [ 255.0, 419.0, 164.0, 22.0 ],
 					"text" : "if $f1 > 127 then 127 else $f1"
 				}
 
