@@ -80,7 +80,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 293.25, 539.0, 61.0, 22.0 ],
+					"patching_rect" : [ 293.0, 536.0, 61.0, 22.0 ],
 					"text" : "delay 500"
 				}
 
@@ -916,14 +916,14 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-47", 1 ],
+					"destination" : [ "obj-47", 0 ],
 					"source" : [ "obj-43", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-47", 0 ],
+					"destination" : [ "obj-47", 1 ],
 					"source" : [ "obj-44", 0 ]
 				}
 
